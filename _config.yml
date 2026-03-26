@@ -1,1 +1,16 @@
 remote_theme: niklasbuschmann/contrast
+title: My Blog
+description: Welcome to my Jekyll blog!
+baseurl: "/zadajutt-arch" 
+url: "https://25-BSCPE-167.github.io"
+
+author:
+  name: Zada Jutt
+  twitter: your_twitter_handle
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
