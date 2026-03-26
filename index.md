@@ -3,6 +3,8 @@ layout: home
 title: Home
 ---
 
-# Welcome to My Blog!
+# My Architecture Project
 
-Ye mera pehla blog hai jo GitHub Pages par live hai.
+![myhouse]({{ site.baseurl }}/assets/myhouse.jpg)
+
+Ye meri architecture ki picture hai.
