@@ -1,6 +1,8 @@
 ---
 layout: home
-title: My Architecture Projects
+title: Home
 ---
 
-Ye meri Jekyll Contrast theme wali website hai! Neeche mere projects ki list hai:
+# Welcome to My Blog!
+
+Ye mera pehla blog hai jo GitHub Pages par live hai.
