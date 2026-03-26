@@ -5,6 +5,6 @@ title: Home
 
 # My Architecture Project
 
-![myhouse]({{ site.baseurl }}/assets/myhouse.jpg)
+<img src="assets/myhouse.jpg" alt="myhouse" width="600">
 
 Ye meri architecture ki picture hai.
