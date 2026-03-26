@@ -1,7 +1,5 @@
----
 layout: home
-title: Welcome to My Architecture Site
+title: My Architecture Projects
 ---
 
-Ye meri Jekyll Contrast theme wali website hai! 
-Main jald hi yahan apne architecture projects upload karungi.
+Ye meri Jekyll Contrast theme wali website hai! Neeche mere projects ki list hai:
