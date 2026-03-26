@@ -14,3 +14,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
+  
+url: "https://25-BSCPE-167.github.io"
+baseurl: "/zadajutt-arch"
